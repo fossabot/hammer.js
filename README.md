@@ -1,4 +1,5 @@
 # [hammer.js][hammerjs-url]  [![NPM Version][npm-image]][npm-url]  [![NPM Downloads][downloads-image]][downloads-url]  [![Build Status][travis-image]][travis-url]
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fhammer.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fhammer.js?ref=badge_shield)
 > A JavaScript library for detecting touch gestures.
 
 
@@ -118,3 +119,6 @@ Feel encouraged to report issues or submit pull requests. When you're ready to d
 [contribution-guidelines]: ./CONTRIBUTING.md
 
 [license]: ./LICENSE.md
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fxinding33%2Fhammer.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fxinding33%2Fhammer.js?ref=badge_large)
